@@ -1,0 +1,8 @@
+#include<stdio.h>
+int a,b,sum;
+printf("Enter the value of a");
+scanf("%d", &a);
+prontf("enter the value of b");
+scanf("%d", &b);
+sum = a+b;
+printf("%d",sum);
