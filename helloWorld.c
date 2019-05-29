@@ -8,4 +8,5 @@ prontf("enter the value of c");
 scanf("%d", &c);
 sum = a+b+c;
 printf("The sum of all three number is :");
+printf("The sum of these three number is :");
 printf("%d",sum);
